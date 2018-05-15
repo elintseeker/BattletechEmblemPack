@@ -12,3 +12,9 @@ BattleTech mod (using BTML) adding custom mercenary/faction emblems for your in-
 2. Install and activate `BattleTechModLoader` and `ModTek`.
 3. Open and place `emblemPack` into your 'Mods' directory.
 4. Run the game. 
+
+
+## Notes
+Requests are welcome (when free) or just pull and contribute.  
+Battletech related imagery are in `emblems` folder.  
+Others are in `misc`.  
