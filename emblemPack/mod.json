@@ -1,8 +1,11 @@
 {
     "Name": "deim0s's Emblem Pack",
-    "Description": "Add new/custom emblems.",
-    "Version": "0.0.1",
     "Enabled": true,
+    
+    "Version": "0.0.2",
+    "Description": "Add new/custom emblems.",
+    "Author": "deim0s",
+    "Website": "https://github.com/kevinn/BattletechEmblemPack",
 
     "Manifest": [
         // Main pack
@@ -10,9 +13,8 @@
         { "Type": "Texture2D",  "Path": "emblems",    "AddToAddendum": "PlayerEmblems" },
 
         // User contributions
-        { "Type": "Sprite",     "Path": "misc",    "AddToAddendum": "PlayerEmblems" },
-        { "Type": "Texture2D",  "Path": "misc",    "AddToAddendum": "PlayerEmblems" },        
-        // { "Type": "Sprite",     "Path": "emblems\\csf-flat.dds",    "AddToAddendum": "PlayerEmblems" },
-        // { "Type": "Texture2D",  "Path": "emblems\\csf-flat.dds",    "AddToAddendum": "PlayerEmblems" },
+        // Uncommment the two lines below to add your non-Battletech emblems
+        // { "Type": "Sprite",     "Path": "misc",    "AddToAddendum": "PlayerEmblems" },
+        // { "Type": "Texture2D",  "Path": "misc",    "AddToAddendum": "PlayerEmblems" },        
     ],
 }
