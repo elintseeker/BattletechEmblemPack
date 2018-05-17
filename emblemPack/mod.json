@@ -12,8 +12,8 @@
         { "Type": "Sprite",     "Path": "emblems",    "AddToAddendum": "PlayerEmblems" },
         { "Type": "Texture2D",  "Path": "emblems",    "AddToAddendum": "PlayerEmblems" },
 
-        // User contributions
-        // Uncommment the two lines below to add your non-Battletech emblems
+        // User contributed emblems
+        // Uncommment the two lines below to add your non-Battletech emblems to the in-game list
         // { "Type": "Sprite",     "Path": "misc",    "AddToAddendum": "PlayerEmblems" },
         // { "Type": "Texture2D",  "Path": "misc",    "AddToAddendum": "PlayerEmblems" },        
     ],

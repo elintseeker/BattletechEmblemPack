@@ -15,6 +15,6 @@ BattleTech mod (using BTML) adding custom mercenary/faction emblems for your in-
 
 
 ## Notes
-Requests are welcome (when free) or just pull and contribute.  
-Battletech related imagery are in `emblems` folder.  
-Others are in `misc`.  
+- Requests are welcome (when free) or just pull and contribute.  
+- Battletech related imagery are in `emblems` folder.  
+- Other non-Battletech emblems are in the folder `misc`. Add your emblems (in `dds` format) there and edit the `mod.json` file to add them to the in-game list.  
